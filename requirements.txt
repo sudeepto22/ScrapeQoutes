@@ -13,6 +13,6 @@ pymongo==3.9.0
 requests==2.22.0
 six==1.13.0
 soupsieve==1.9.5
-urllib3==1.25.7
+urllib3==1.25.8
 webencodings==0.5.1
 Werkzeug==0.16.0
